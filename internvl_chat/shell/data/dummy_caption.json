@@ -1,0 +1,10 @@
+{
+  "PIA-UCF": {
+      "root": "/workspace/dummy_data/",
+      "annotation": "/workspace/dummy_data/dummy_caption_for_VLM.json",
+      "data_augment": false,
+      "max_dynamic_patch": 1, 
+      "repeat_time": 1,
+      "length": 1
+    }
+}

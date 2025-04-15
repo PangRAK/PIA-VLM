@@ -1,0 +1,10 @@
+{
+  "PIA-UCF": {
+      "root": "/workspace/mnt/이상락/UCF-Crime/cliped_video_processed/",
+      "annotation": "/workspace/mnt/이상락/UCF-Crime/UCF_Crime_caption_for_VLM.json",
+      "data_augment": false,
+      "max_dynamic_patch": 1, 
+      "repeat_time": 1,
+      "length": 5540
+    }
+}
